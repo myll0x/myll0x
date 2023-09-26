@@ -1,4 +1,4 @@
-## HELLO THERE! 😁
+## hello there! 😁
 
  <div>
    <a href="https://github.com/myll0x">
@@ -22,7 +22,7 @@
 
 <br>
  
-### Seguimos conversando!
+### seguimos conversando!
  
 <div> 
 <a href="https://instagram.com/myll0x" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
