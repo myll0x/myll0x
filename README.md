@@ -11,7 +11,15 @@
  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
- 
+<br>
+<link rel="stysheet" href="css/documento.css">
+<br>
+<section>
+      <figure class="gif">
+            <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWRjZ241OGpnNTFlbm43MDV3bmdyZDMzdHFmNjFsbnljdW1xa3RubCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lpndWfiMCxqYKF9l3L/giphy.gif">
+      </figure>
+</section>
+
 <br>
  
 ### Seguimos conversando!
